@@ -1,0 +1,6 @@
+id=smpte_silencer
+name=SMPTE 2094-40 Log Silencer
+version=1.0
+versionCode=1
+author=mertemr
+description=Disables gralloc4 / SurfaceFlinger SMPTE 2094-40 log spam

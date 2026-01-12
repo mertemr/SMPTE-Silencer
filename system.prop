@@ -1,0 +1,6 @@
+log.tag.gralloc4=SILENT
+log.tag.SurfaceFlinger=ERROR
+log.tag.BufferQueue=ERROR
+log.tag.BufferQueueProducer=ERROR
+log.tag.DisplayDevice=ERROR
+log.tag.HdrLayerInfo=ERROR

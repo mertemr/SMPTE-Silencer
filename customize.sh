@@ -1,0 +1,15 @@
+#!/system/bin/sh
+
+ui_print " "
+ui_print "SMPTE / Log Silencer"
+ui_print "----------------------------------"
+ui_print "Silencing log tags:"
+ui_print " - gralloc4"
+ui_print " - BufferQueueProducer"
+ui_print " - SurfaceFlinger"
+ui_print " "
+ui_print "Applying system properties..."
+ui_print " "
+ui_print "✔ Done. Logs will be silent after boot."
+ui_print "----------------------------------"
+ui_print " "
